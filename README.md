@@ -20,7 +20,7 @@ It is designed for educational and cybersecurity purposes, demonstrating real-ti
 
 1. Clone the repository:
    
-- git clone https://github.com/<yourusername>/LiveMobile.git
+- git clone https://github.com/cyberwolf6938/LiveMobile.git
 - cd LiveMobile
 - python3 [mobile.py](https://github.com/cyberwolf6938/LiveMobile/blob/main/mobile.py)
 
