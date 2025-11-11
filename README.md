@@ -20,7 +20,16 @@ It is designed for educational and cybersecurity purposes, demonstrating real-ti
 
 1. Clone the repository:
    
-git clone https://github.com/<yourusername>/LiveMobile.git
-cd LiveMobile
-python3 [mobile.py](https://github.com/cyberwolf6938/LiveMobile/blob/main/mobile.py)
+- git clone https://github.com/<yourusername>/LiveMobile.git
+- cd LiveMobile
+- python3 [mobile.py](https://github.com/cyberwolf6938/LiveMobile/blob/main/mobile.py)
+
+---
+
+## Demostration 
+
+For demostration go to my medium blog to see how its work
+
+## License
+
 
